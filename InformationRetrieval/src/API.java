@@ -7,7 +7,6 @@ import gui.SearchEngineIntro;
  * The Class API.
  * Starts the application.
  * @author      Ivan Grigorov (ivangrigorov9@gmail.com)
- * @author      Kristiyan Dimov ()
  * @version     1.2.0                (current version number of program)
  * @since       05.01.2016           (the date of the last version)
  */
